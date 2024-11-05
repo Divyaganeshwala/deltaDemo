@@ -1,2 +1,2 @@
 # deltaDemo
-I am learning Github
+I am learning Github.
